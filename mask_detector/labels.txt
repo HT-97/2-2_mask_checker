@@ -1,3 +1,0 @@
-0 noMask
-1 onMask
-2 midMask
